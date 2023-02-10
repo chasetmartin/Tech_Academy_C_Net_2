@@ -1,0 +1,12 @@
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.exe
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.deps.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.runtimeconfig.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.runtimeconfig.dev.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.AssemblyInfoInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.AssemblyInfo.cs
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.genruntimeconfig.cache
