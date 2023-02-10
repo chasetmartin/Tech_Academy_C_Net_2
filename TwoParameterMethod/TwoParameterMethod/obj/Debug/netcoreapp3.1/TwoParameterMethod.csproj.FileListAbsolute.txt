@@ -1,0 +1,13 @@
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\TwoParameterMethod\TwoParameterMethod\bin\Debug\netcoreapp3.1\TwoParameterMethod.exe
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\TwoParameterMethod\TwoParameterMethod\bin\Debug\netcoreapp3.1\TwoParameterMethod.deps.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\TwoParameterMethod\TwoParameterMethod\bin\Debug\netcoreapp3.1\TwoParameterMethod.runtimeconfig.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\TwoParameterMethod\TwoParameterMethod\bin\Debug\netcoreapp3.1\TwoParameterMethod.runtimeconfig.dev.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\TwoParameterMethod\TwoParameterMethod\bin\Debug\netcoreapp3.1\TwoParameterMethod.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\TwoParameterMethod\TwoParameterMethod\bin\Debug\netcoreapp3.1\TwoParameterMethod.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\TwoParameterMethod\TwoParameterMethod\obj\Debug\netcoreapp3.1\TwoParameterMethod.csproj.AssemblyReference.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\TwoParameterMethod\TwoParameterMethod\obj\Debug\netcoreapp3.1\TwoParameterMethod.AssemblyInfoInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\TwoParameterMethod\TwoParameterMethod\obj\Debug\netcoreapp3.1\TwoParameterMethod.AssemblyInfo.cs
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\TwoParameterMethod\TwoParameterMethod\obj\Debug\netcoreapp3.1\TwoParameterMethod.csproj.CoreCompileInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\TwoParameterMethod\TwoParameterMethod\obj\Debug\netcoreapp3.1\TwoParameterMethod.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\TwoParameterMethod\TwoParameterMethod\obj\Debug\netcoreapp3.1\TwoParameterMethod.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\TwoParameterMethod\TwoParameterMethod\obj\Debug\netcoreapp3.1\TwoParameterMethod.genruntimeconfig.cache
