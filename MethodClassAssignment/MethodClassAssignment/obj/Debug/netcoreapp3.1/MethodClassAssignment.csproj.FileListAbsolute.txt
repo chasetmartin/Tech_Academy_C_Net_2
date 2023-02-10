@@ -1,0 +1,12 @@
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\MethodClassAssignment\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.exe
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\MethodClassAssignment\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.deps.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\MethodClassAssignment\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.runtimeconfig.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\MethodClassAssignment\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.runtimeconfig.dev.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\MethodClassAssignment\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\MethodClassAssignment\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\MethodClassAssignment\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.AssemblyInfoInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\MethodClassAssignment\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.AssemblyInfo.cs
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\MethodClassAssignment\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\MethodClassAssignment\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\MethodClassAssignment\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\MethodClassAssignment\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.genruntimeconfig.cache
