@@ -1,0 +1,12 @@
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.exe
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.deps.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.runtimeconfig.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.AssemblyInfo.cs
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.genruntimeconfig.cache
