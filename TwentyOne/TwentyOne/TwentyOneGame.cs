@@ -17,7 +17,7 @@ namespace TwentyOne
         }
         public void WalkAway(Player player)
         {
-            throw new NotImplementedException;
+            throw new NotImplementedException();
         }
     }
 }
