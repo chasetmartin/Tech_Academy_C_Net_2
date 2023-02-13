@@ -1,0 +1,13 @@
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.csproj.AssemblyReference.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.AssemblyInfoInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.AssemblyInfo.cs
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.exe
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.deps.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.runtimeconfig.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.runtimeconfig.dev.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.genruntimeconfig.cache
