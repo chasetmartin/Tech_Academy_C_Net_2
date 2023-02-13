@@ -1,0 +1,13 @@
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.exe
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.deps.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.runtimeconfig.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.runtimeconfig.dev.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.AssemblyInfoInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.AssemblyInfo.cs
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.genruntimeconfig.cache
