@@ -1,0 +1,13 @@
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.exe
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.deps.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.runtimeconfig.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.runtimeconfig.dev.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.csproj.AssemblyReference.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.AssemblyInfoInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.AssemblyInfo.cs
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.genruntimeconfig.cache
