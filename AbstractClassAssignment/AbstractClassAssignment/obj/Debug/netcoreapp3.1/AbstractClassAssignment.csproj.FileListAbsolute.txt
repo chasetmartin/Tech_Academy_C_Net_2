@@ -10,3 +10,4 @@ C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\AbstractClassAssignm
 C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.dll
 C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.pdb
 C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.genruntimeconfig.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.csproj.AssemblyReference.cache
