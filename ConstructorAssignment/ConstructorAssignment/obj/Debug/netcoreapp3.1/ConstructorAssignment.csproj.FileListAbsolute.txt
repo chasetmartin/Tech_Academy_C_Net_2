@@ -1,0 +1,13 @@
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.csproj.AssemblyReference.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.AssemblyInfoInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.AssemblyInfo.cs
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.exe
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.deps.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.runtimeconfig.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.runtimeconfig.dev.json
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.dll
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.pdb
+C:\Users\Chase Martin\Documents\GitHub\Tech_Academy_C_Net_2\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.genruntimeconfig.cache
