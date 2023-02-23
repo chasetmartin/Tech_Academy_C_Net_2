@@ -1,0 +1,12 @@
+C:\Users\Chase Martin\source\repos\CodeFirstConsoleAppEntity\CodeFirstConsoleAppEntity\bin\Debug\CodeFirstConsoleAppEntity.exe.config
+C:\Users\Chase Martin\source\repos\CodeFirstConsoleAppEntity\CodeFirstConsoleAppEntity\bin\Debug\CodeFirstConsoleAppEntity.exe
+C:\Users\Chase Martin\source\repos\CodeFirstConsoleAppEntity\CodeFirstConsoleAppEntity\bin\Debug\CodeFirstConsoleAppEntity.pdb
+C:\Users\Chase Martin\source\repos\CodeFirstConsoleAppEntity\CodeFirstConsoleAppEntity\bin\Debug\EntityFramework.dll
+C:\Users\Chase Martin\source\repos\CodeFirstConsoleAppEntity\CodeFirstConsoleAppEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chase Martin\source\repos\CodeFirstConsoleAppEntity\CodeFirstConsoleAppEntity\bin\Debug\EntityFramework.xml
+C:\Users\Chase Martin\source\repos\CodeFirstConsoleAppEntity\CodeFirstConsoleAppEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Chase Martin\source\repos\CodeFirstConsoleAppEntity\CodeFirstConsoleAppEntity\obj\Debug\CodeFirstConsoleAppEntity.csproj.AssemblyReference.cache
+C:\Users\Chase Martin\source\repos\CodeFirstConsoleAppEntity\CodeFirstConsoleAppEntity\obj\Debug\CodeFirstConsoleAppEntity.csproj.CoreCompileInputs.cache
+C:\Users\Chase Martin\source\repos\CodeFirstConsoleAppEntity\CodeFirstConsoleAppEntity\obj\Debug\CodeFirstConsoleAppEntity.csproj.CopyComplete
+C:\Users\Chase Martin\source\repos\CodeFirstConsoleAppEntity\CodeFirstConsoleAppEntity\obj\Debug\CodeFirstConsoleAppEntity.exe
+C:\Users\Chase Martin\source\repos\CodeFirstConsoleAppEntity\CodeFirstConsoleAppEntity\obj\Debug\CodeFirstConsoleAppEntity.pdb
