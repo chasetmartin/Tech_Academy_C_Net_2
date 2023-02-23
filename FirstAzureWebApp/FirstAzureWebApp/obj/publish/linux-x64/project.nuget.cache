@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W3YQmerQsRDhr+s4jnoYbJ5SMjWVjFJB9vhpglv+TpvwPdvZhR+KrkpUA4R42FE70KpTTV8j6DXQVSBChOIqTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chase Martin\\Documents\\GitHub\\Tech_Academy_C_Net_2\\FirstAzureWebApp\\FirstAzureWebApp\\FirstAzureWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chase Martin\\.nuget\\packages\\microsoft.net.build.containers\\0.3.2\\microsoft.net.build.containers.0.3.2.nupkg.sha512",
+    "C:\\Users\\Chase Martin\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.14\\microsoft.netcore.app.runtime.linux-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\Chase Martin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.14\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\Chase Martin\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.14\\microsoft.netcore.app.host.linux-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

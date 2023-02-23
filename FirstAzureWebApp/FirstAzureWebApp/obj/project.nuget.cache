@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R0ST5D9VOvB/Sa+WV/0XJYGDS9YGYFacInNonNqbBS0ndi9xG+cAZv+PHi33PRJz0iC0DSRj1pMPZfnWSuHA1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chase Martin\\Documents\\GitHub\\Tech_Academy_C_Net_2\\FirstAzureWebApp\\FirstAzureWebApp\\FirstAzureWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chase Martin\\.nuget\\packages\\microsoft.net.build.containers\\0.3.2\\microsoft.net.build.containers.0.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
